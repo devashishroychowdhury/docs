@@ -16,7 +16,7 @@ versions:
   ghec: '*'
 shortTitle: Docker registry
 ---
-
+reference: https://docs.docker.com/registry/
 <!-- Main versioning block. Short page for dotcom -->
 {% ifversion fpt or ghec %}
 
